@@ -1,0 +1,15 @@
+{
+    "name": "ariakas/ism",
+    "autoload": {
+        "psr-4": {
+            "Ism\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ariakas",
+            "email": "duulket@gmail.com"
+        }
+    ],
+    "require": {}
+}
